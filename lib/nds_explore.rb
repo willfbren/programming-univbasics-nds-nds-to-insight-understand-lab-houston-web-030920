@@ -10,5 +10,5 @@ end
 pretty_print_nds(directors_database)
 def print_first_directors_movie_titles
   movie_titles = directors_database[:movies][0]
-  
+  movie_titles_index = 0
 end
