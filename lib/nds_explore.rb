@@ -14,5 +14,6 @@ def print_first_directors_movie_titles
   
   while movie_titles_index < movie_titles.count do
     puts movie_titles[movie_titles_index][:title]
-    
+    movie_titles_index += 1
+  end
 end
