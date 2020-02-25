@@ -13,5 +13,5 @@ def print_first_directors_movie_titles
   movie_titles_index = 0
   
   while movie_titles_index < movie_titles.count do
-    
+    puts movie_titles[]
 end
